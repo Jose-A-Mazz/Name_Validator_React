@@ -1,0 +1,11 @@
+label {
+  display: block;
+  margin-block-end: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 2rem;
+}
+
+input {
+  padding: 0.3rem;
+  outline-color: brown;
+}
